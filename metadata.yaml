@@ -1,0 +1,29 @@
+_repo: Records-by-Admiral-of-the-Fleet-Lord-Fisher_69497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fisher, John Arbuthnot Fisher, Baron
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '54577'
+    url: http://www.gutenberg.org/2009/agents/54577
+    wikipedia: https://en.wikipedia.org/wiki/John_Fisher,_1st_Baron_Fisher
+description: ''
+gutenberg_issued: '2022-12-08'
+identifiers:
+  gutenberg: '69497'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924027924509
+pgterms:marc905: 20191118224258fisher
+pgterms:marc906: '1919'
+production_note: Brian Coe, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Hodder and Stoughton,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Records: by Admiral of the Fleet, Lord Fisher'
+url: http://www.gutenberg.org/ebooks/69497
